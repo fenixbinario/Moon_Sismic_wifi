@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="Moon_Sismic_wifi.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.Moon_Sismic_wifi.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
